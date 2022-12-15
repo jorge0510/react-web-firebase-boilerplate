@@ -1,0 +1,5 @@
+.alert_wrapper {
+    padding: 10px 50px;
+    border-radius: 5px;
+    display: inline-flex;
+}
